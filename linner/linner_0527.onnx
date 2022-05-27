@@ -1,0 +1,272 @@
+pytorch1.10:®”
+ú
+input
+conv0.weight5Conv_0"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 2óF:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\conv.py(442): _conv_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\conv.py(446): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1090): _slow_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+G:\enlca_model\net\linner.py(91): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1090): _slow_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(118): wrapper
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(127): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(1166): _get_trace_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(388): _trace_and_get_graph_from_model
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(437): _create_jit_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(493): _model_to_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(724): _export
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(107): export
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\__init__.py(316): export
+G:/enlca_model/net/2onnx.py(16): pth_to_onnx
+G:/enlca_model/net/2onnx.py(31): <module>
+
+ö
+5
+conv1.weight6Conv_1"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 2óF:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\conv.py(442): _conv_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\conv.py(446): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1090): _slow_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+G:\enlca_model\net\linner.py(92): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1090): _slow_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(118): wrapper
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(127): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(1166): _get_trace_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(388): _trace_and_get_graph_from_model
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(437): _create_jit_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(493): _model_to_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(724): _export
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(107): export
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\__init__.py(316): export
+G:/enlca_model/net/2onnx.py(16): pth_to_onnx
+G:/enlca_model/net/2onnx.py(31): <module>
+
+…
+67Relu_2"Relu2îF:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\functional.py(1299): relu
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\activation.py(98): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1090): _slow_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+G:\enlca_model\net\linner.py(92): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1090): _slow_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(118): wrapper
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(127): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(1166): _get_trace_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(388): _trace_and_get_graph_from_model
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(437): _create_jit_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(493): _model_to_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(724): _export
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(107): export
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\__init__.py(316): export
+G:/enlca_model/net/2onnx.py(16): pth_to_onnx
+G:/enlca_model/net/2onnx.py(31): <module>
+
+ö
+7
+conv2.weight8Conv_3"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 2óF:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\conv.py(442): _conv_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\conv.py(446): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1090): _slow_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+G:\enlca_model\net\linner.py(93): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1090): _slow_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(118): wrapper
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(127): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(1166): _get_trace_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(388): _trace_and_get_graph_from_model
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(437): _create_jit_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(493): _model_to_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(724): _export
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(107): export
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\__init__.py(316): export
+G:/enlca_model/net/2onnx.py(16): pth_to_onnx
+G:/enlca_model/net/2onnx.py(31): <module>
+
+…
+89Relu_4"Relu2îF:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\functional.py(1299): relu
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\activation.py(98): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1090): _slow_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+G:\enlca_model\net\linner.py(93): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1090): _slow_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(118): wrapper
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(127): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(1166): _get_trace_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(388): _trace_and_get_graph_from_model
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(437): _create_jit_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(493): _model_to_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(724): _export
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(107): export
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\__init__.py(316): export
+G:/enlca_model/net/2onnx.py(16): pth_to_onnx
+G:/enlca_model/net/2onnx.py(31): <module>
+
+§	
+5
+910Add_5"Add2	G:\enlca_model\net\linner.py(95): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1090): _slow_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(118): wrapper
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(127): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(1166): _get_trace_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(388): _trace_and_get_graph_from_model
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(437): _create_jit_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(493): _model_to_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(724): _export
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(107): export
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\__init__.py(316): export
+G:/enlca_model/net/2onnx.py(16): pth_to_onnx
+G:/enlca_model/net/2onnx.py(31): <module>
+
+û
+10
+conv_out.weight11Conv_6"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 2óF:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\conv.py(442): _conv_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\conv.py(446): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1090): _slow_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+G:\enlca_model\net\linner.py(96): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1090): _slow_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(118): wrapper
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(127): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(1166): _get_trace_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(388): _trace_and_get_graph_from_model
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(437): _create_jit_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(493): _model_to_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(724): _export
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(107): export
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\__init__.py(316): export
+G:/enlca_model/net/2onnx.py(16): pth_to_onnx
+G:/enlca_model/net/2onnx.py(31): <module>
+
+°	
+input
+11outputAdd_7"Add2	G:\enlca_model\net\linner.py(97): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1090): _slow_forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(118): wrapper
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(127): forward
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\nn\modules\module.py(1102): _call_impl
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\jit\_trace.py(1166): _get_trace_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(388): _trace_and_get_graph_from_model
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(437): _create_jit_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(493): _model_to_graph
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(724): _export
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\utils.py(107): export
+F:\ysc\anaconda\envs\torch\lib\site-packages\torch\onnx\__init__.py(316): export
+G:/enlca_model/net/2onnx.py(16): pth_to_onnx
+G:/enlca_model/net/2onnx.py(31): <module>
+torch-jit-export*›Bconv0.weightJ€l„½ö=(“=Ø¾Œ< t=0è =H4Ã¼\&=¤(=ğq¬½0¨(¼©€>HŒ=ãMı½X"¾«Ø†½À^Ü½ÀÀ¼àä<Z#>u&> ëR;ûï¡½}Á> ı¼bÖ£=€Ñr=P0#¾@n)=ñ<¤H_=î3å½×º#¾#é
+¾ÅD>‹™=ÑÏ>’óÌ=Ó¾ÀĞÑ¼
+ùñ=Æ‹Ó½¾ï½, ½ßÿ$¾z¥¾7@¾|ŞK=Îˆñ=Ğ ½©¾Bµ¾ì	y½T¹¾" ê=˜¾8¢=Êğİ=ö°—=ğk)¼Ã'¤½a!>ì¾x£Š¼>’š= oƒ=¹â>ÊLî=2A¾ªÑ¾ğY<:°ã=0ĞL<ş=½ĞÕi¼¨‰¼…f<@Ds;˜3Ó½J]ò=híë½xµ½–ïx½ĞŞ½¦H:½@á¨¼À†» §Î½“XÔ½.¼Ã}ø½6„¾½¨{‘<ğX½[k>ñZ">ÆÑ‹=šÄÍ=v>u½¾ó½ÃàÈ½dA(½É*>@·¾üd½ÀšÛ<¨­”¼42?= Ë:¥ï½Úéò=Ãs>&­ƒ=fÿ½Şo×=ğÎ1<€q›<1ğ(>¬PN=ãs¾rö=Oö>xø¼‹ºş½ \ =V'÷=p·c=²r·=ÜÑ¾0¨½—!¾Ìq=CÂ#>øRõ½Ú?Î=Æ»½¶ñÕ=Ê‡›=I>0Š½k"¾ÈV€<Ö¨¸=>R»¾F` ½·¾&¾—™=S-¾v¯Y½C»½ô=¬ú= w½T+	=Ó¼ó½¢Ù²=0»¼3ûÉ½Àa½@å½ñ¾{œ*¾^IÌ=\Æe=.Øî=Eê>yÄ> '«¼&Gó=~À÷=Ê¾„ÎC=fcã=ƒeÖ½5ş>‘,>¸£ÿ<õ½àËk=€È$¾+›†½ªÕé=x}Ú<8d<Ğª=à»¾H †<Àw·<Jòû=—,¾Ú«=œR½5Y>Å>° š½\\E=ù¯>¤¾0=¸pÓ<‡Ÿ >‘>¥p>Ì1G½a°=¡Ö½p+X½`ë¼Pfc½ÔO ¾>áÊ½|<=ká²½šñ¥=¬Ï!¾’èû=é>ğU¾ •¼şæ=`Îq=#!)>ØF¾Õ…>{¥§½Èß‘¼–r¦=R¥ù=ÚaÄ=ü˜=j/=+»½½}x>6rµ=Ğ!f<0+¼R#ã=‹Ñ¾ö6Œ=<à¾l=Ë¢'¾ØL“½ü_½„=£IĞ½-
+>ˆeÀ<¨-¾Pdq=$¾(µ…<@n»€O‹<¤;¾]ì
+>ÀP|½v^ı½XÙó½
+%¾4z¾°BØ½€Í¼{"¾À.X½0d/¼Û¾ğÑ½,Ü}½<±¾ ƒÍ<n¦(¾l½&=öOÄ=3Í‹½°›¾ O
+=²–³="*Á=fÖ½b’Ã=>Ê=0½à<À¾R½¼Po½(IÂ¼æâ½N«
+¾$ÌI=”p¾ şÇ<€†Õ:em>ğ‹R<m]!>/ã¾×“
+>„µ¾iŠ>Ø—İ<Øg©½A½tm= È™=t‡½°Ã6< àİ»„‚=í>ºí½ÖH8½²8¦=Rs¾XÃ„½àŒ=ht¤¼à—»,³Y½p¦ˆ=ğ%©½3º(¾s½½Ai$> ºû©¾]c>ÑŞ'>…d$> 
+™;øÄ¼p‡'¾À_æ<ƒ‹æ½Ï’½ë¸–½$¾¨aÈ½Öÿ½¶û“½Ój½JG¾+µ‡½pêO½óû(>Éû>€ <KY¾¾šà½mã> 0èºÀmH»ö¬½òè=úSØ=öÕ=~Jò=³=™õ½®—=¾~„½Jô›=Îìœ=u'>›…ö½ÀÇ3;~Ü™=8Ê¼€€?¼€Ö<îÕ‘=<¸½‡¬½Jã÷=Õô>ÿ;¾¾Ñï=8Ÿà½<q$¾*‚À=Dç,=(;Ÿ=Ò~²=®p¾\u½€§;à½°½òˆ=’şº=F¢=Rµˆ= ‰ù¼v	å=€¤Ó:PĞ¼¯ç&¾3ëƒ½E¶>°/½<wf=ò»†=j£¾˜3×<@ˆ¼ ı½Í†>ÂùÒ=²êõ=<ÑG½ ÊÚ;~y‚½ {e=ö[Ú=
+]*¾£g>‹
+½ ]ã½>äú½¶»»½B>ªAò=
+R¾ö½+€‚½¾É½ ®±ºX„¼½¸¡¼è.«<ÚtÓ=ğ¯u=¬	 =
+†(¾²ó=:Ü=º‹ğ=Û =ˆƒÊ¼Á3>sƒ½wâ=Š„ş=Ì=Z×À=9í>áy>„Î&½£Å ¾‰«>d# ½”ä¾;úÚ½å~&>}@>ÀN»pö¾pV%=OØ½,P,=pI;¼À}Î<ÌäH½Ëa½À½}ê>Ğa‚½lÉb½ÌGm=Îğ<fÓŞ= „’;>ù¾`Ì3=¶>ˆé‹=W"¾>g‰½J½M±>ŠŠ°=poN½æ;v½
+¾`…¼ ŸD½FÎœ=¢´¼L¾@Ëk=ÂÍ=«¶½X”<F‰Ø½”r=¨¿<X3Ş½PæN=’}¼jŠ¾@Õ½›=•½`pÑ»º±=;b>V"é½ÔdY= {¥½4W½oú>f”ø½^åæ=6ƒš½T»=»²¥½@JÉ¼rÓ˜= â½ø=¾ÚĞ¾¥>«½Ğ–½@#k½‹
+>‚–(¾nİ¾~íÂ=åk$>ıZ>üÊi=êï=Jİ’=“ÚÉ½k¤‰½Ñ¾@ñZ»àÈı½c±©½+¬!¾Ö¿¤½¬Ï*=pÖ ½Îó=HsÅ½ZÛÂ={Ïè½H¸¼²ÂË=ˆB¶¼Û¡'¾Ã¥é½ez> =‹=€ì¼£E£½­M >xš³½›
+"¾hr¼×@>@…Ø½· >¶Ÿ¾Fšï= m‘=xPİ<Úı¼x®ì<PØÊ½–zR½2U’=‹¾;V¾`=ß¼*›HBconv1.weightJ€Hæ»á¼Ş• ½t‰½ a<€ İ»ğ…<Ÿç<Ğ–"½†-= ûÕ¼«±“=ˆV¼€V2<kee½¦Iê¼ XÀ<w"‚½PzÄ»|§=¢#E= l¼(8*=e‘œ=—é‹½1½Z‡Q=nÏx=æÎË¼³Ë8½œf­¼Nò£½r6P=€=‰şŠ=…½ àºÀê°:>Š½`Ú¼“øP½àp&=°›Ò<öÜÆ¼ÆÁU=‹D½´³Š<pÀ< ˆu;àŸ»›U(½ÃÎ=0oæ; m»Ò>/=Ìëâ<ÓÑ‚=İç¼d²¦½Íù•=ƒ
+’=²½”‡¼Øğ½$U½|IŒ<¦„Œ½Öÿn=è™= Dî:{P”=7E‹½‹Q½¨ÃF¼’¹5=|t³<7Q¢½í‹ƒ=A‹=%ù =¦ÖÍ¼ ´a½xoC¼Ó=àÜS» ƒ=Œ©Ü<pÀÜ»Ş^5=$Í<”+™<>dj=Ü
+…¼²¯½"ñ6=š¯B=v½ É—½L=;®›=ú4=A“†=è…9½ıŸ=&¤“½ƒë½‰=³D½Åø;Ã81½3Ì‚=$øî<ßÕ;XTz½©§= & ½Kf½»Œ½Ö·^=€TS;{ÏZ½i£= ß3<dÍò<@Œ<â4K=mY¢= BŞ<‰•=xˆ¥½ÑÆ©=[õ½²Ñj=„Àˆ<b½ Ä¸<¸:4<¾ÿ½òO<bêm=†ûg½ÀæÑ:j4W=²f&=ğªF½oƒ½ëfp½±¡=äû<ï‹=ğ—ß;x…½¶QF½€ÍO<Éa†= 07¼`úÏ¼Ô”ˆ½&¨8½ft=‘× =0Ñ›¼ªng=8Ò><¾7½vl@=ñ=5=ç>=çv§= bq<À^“¼¿|‘½ºaI=Àü¤< ](»˜(/¼å=™ñ=+(!½à
+'=¸2½*é=À9c¼Ú³2=g—=<£<àGa<Á¼,Œ¼F4»¼Ã™N½ö·?½NºV=*¯L=Ì™ô<Òô=t)š¼¸K½^V{½@ğ‚»F…<=àVH;fO½FÊ;½M_½ dm<ØšZ¼ÂDz=Ëñ‹½*V`=0Z–½P:s½J‰=¦[=\ì<Úd=ôŞ<a™=)x=Şw=Ló¼€ß8½È­ ¼âÏ‰½èíd¼êÁm=w8¨½¹´;€«¡;@4ë¼lš½¼ó‡¼àîI<ƒÅ=.X½DØË<À¶¶º"*–½r˜=ÔV½@Ò%¼šA€½D3—¼½ö…= p)<ÊpS=ñ‚=ù<›{ ½£V‡=ïq“=ğ–½“•¥=£`½ûç3½ ^Q;ğæ¼ “A;ëÉ;½ µœ<¨ú/<”“Ø< Nj;cœ—=Z~h=¡=÷T†=Ê«X=¼’ì< =`=S<K³‚½Ol=J==Î>½ "´¼ä`‚½T=¼û¼ˆ@=3B–½M2½˜¦
+<(R½ş\‹½Ri=ˆ3 =Ö2c=Lş´<ÅA©=†1}½d±–½0ı<°!Æ»È²`<¦‘c½0Ÿ†;Üx=×k=šs+= Şº@ƒØ; Öp½Øc=”H—½MÔ˜= I!»;‡½–V½~ş"=j³3=v&½ )¼<İ´¼(±=6Éâ¼±”=z¬2=À—¼º«I¦½x­=¹N„=Ã‹=—F—=˜ã<˜c=®’=°K‹¼îz{½ææø¼z=ş+†½¶!9=n¡½¸¹h<Øš=¼Úk=*W=ØšS<ŒÌ<WÕ“½š÷G=ößô¼hş3½•õ¼æœ›½?ÄŠ=p½"½=ó¹’=bE9=2Í}=Pİ<ğ¸º<¯M“½›|7½²è"=úáw=Ø@½bS=Æ‰¿¼ó@½ğ§½›¤½ˆu=‡{Œ½DQ=äæ±<×£=OĞ–=P½ˆ=(›<´ù ½‡2ˆ½p`g½¨4H½ø"+½*Ë3=ãşv½à¾»ÛQ½ U^¼¨L<út½ä¤½2¬t=Yó˜= /;Bóx=Sd½TÌ…<€…£¼¼”µ¼®ç½¸+¼2¨„½ ÇÏ:S$ª½á<2P‹½å™=Àô¼ şM»v^Z= ê‹½¸¤E¼¶Ûš½`(~;€®|<“i=(K&½À•=u =²‹9=(D¦½[›=¬Û¼´Š‘½Ô8ú<“…“=g-ˆ=R1=‚y=->=™R= +¡¼Kš–½³—B½|ËØ¼y=B/%=d€ª<VH=]Ã©= }=»!á¦=œr­<˜Q,¼;Ğ–=°I»»h¼™û•=¶I8=Ä¼ì ½<ü…½QÎ¼°p”»Õ¢=}C= LºN=@5ª:ò.==„ñ“< #=R,=:P	=zyW=€£–<ï=ÌË©< `c¼Ëxg½Ê>&=Lè‚½xdN½Âa½v„e=cË½ÒÁT=«>½³X½ ¡h;Vñ=Ö%={[½S¥A½øù%½» x½P·¨<"OQ=0$½ ½À™:Àep½P¹‡;šGs=†öœ½®(=€<—»0Ç»Ì–†½*Ü=xmt¼„ã«<ˆˆ`<˜„<)G“=
+–y=@<Æ<&½Ş]½èœ;<Ô?¥¼Hqp<@ò¼`54¼ğú—<ài½„hö<ÿÅ¢=˜tŸ½™©=R½ —ÿ<ã?Ÿ½£!M½Ğ!æ» |t:¯ğ…½“V!½t%˜<`;)¢½¥Ô=œy½R"?=H&g<+ò½ìãÈ¼ã“L½V-–½Kü4½›W,½–#v½¦‘F=hF!½ÎØw½ƒH½sƒ½ˆ¸¼(‘s<nÉ$½ ¡Õ¼×:¥½¹Ïˆ=ı6˜=ş¼r¼§v=†ú½ (<]“=±;Dä<x“¨½¤•¼SE‰=fË½€K<°sÛ<Ú-y=h2½ŞÎœ½5“=s=ÜBÑ¼]U—=¹˜=şû^=~ëT=”éœ½|öß¼üË±¼s1½“ñƒ½Øƒ =Jd‡½ŠÇ-=‚‘½ Lº¼fÕ5=ˆi¨½lÿ‰<Ÿ%Ÿ½phš»¦úÈ¼ù–=BË=ğ/½ä…½†èQ½Á™½Æ¾™½0Q’<ô¬¥¼<í·¼¶È =Çf ½ N¼4†¼bÑ4=¿=‰Ö¼üfå<H5=S‚½p}¢<ôº»À$c<Aq¥=a™½ÚÛK=œr½nõ<= ·ğ<Ègp¼öíR=+-½Fcœ½²g=X§/<boU=î» =„Ù<šu=Õ,=H6}<¼ƒ<Ab=€Ğ=Bˆ5=Vl‡½pÅê¼~¥½L= ´]»ˆ5¼ıW£=ÊBv=@Î<,ƒ<Ş”½0c½Š|h=Óy½ÒC‡½°ù¿¼(³-½`¾;^£Y=8i[½22`=~H}½Ì¼Œ½c“=¾ô½HÓ¼èë~¼èg <Õ‚=²5=ª-=»¥=P¿„»’§u=4ÿ<Œü<â¹—½ ;¨;¥_=D³<sÄ3½û%c½•=°”;ÀÍ¼¡¨=øI=¦¾½â·m=Ê‘=½v‹½34C½ é»‚09=p©@½	ã<+½½ 8B½[à¼Ä6½¢şY=H[F¼/°™=ê~ˆ½–9µ¼¢q;=°4†½9ñ» *»(ü=ôO³<v>2=Ê›¼PØô» ±Š½O= {œ:<f’½£ªf½0’˜¼ ~:¾sx=~ƒ=Ì­<¥½&kJ=à„I»F·J=âª*=hr½Ò,Š½hª[¼BU=ûD½Ù´›=Vç<½ËÅˆ½€¶H¼ú>J=Ht3¼x¬K<Öì½Á½¢è:=öû¯¼ Ú¼f}ç¼à9Z½7œ=XÂ\<cƒ=N{=´>ì<”aŠ¼`ÊD;g©=üwê¼‹Ó^½Ğ·¼´™=½x¥=MU=Ê1½pkŒ½ğ6§<Sğ—½¤Ç½ğ…<æÔ¼SRc½Ö*=S]ˆ=)B™=v<r½@Ó;ZGe=0J½Ğk½=pF¼¹D½ì¬¼¤š½ &S» ¤Ê:¾ƒ½àõÀ<vÖ½½œìÉ¼T¨”½zP½ú2-=vî‰½»]½è¼Àg}<ÖyS½&º¼íÏ¦=ƒ—F½ç¼ ¼Ø?¼¦©\½&h1=nŠ=›tª=Ã ½øïV¼`+@½+‚½³‘u½ †í¼œ¥—½IÅš=ø1[¼^{C½ d/¼8Ğs<*øœ½ˆa¼Üšı¼¨àP½»E½–6ó¼tç<Ìåı¼8u½ Mç;ç=g2‰½Ë6½.
+<=€.ß;í#€=€7»àU;à>è¼RVz=(í8¼eÖ¼°p§»`"@»‹Lo½%ƒ–=Ò;l=s!ˆ=²R½H½3¼¡= öñ¼Ø¾I½Xü½ µ#<›Ì ½5½ @é7ú·+=ÜH¼àŸ½<xU¼Ğáº<3şš½»2=£Å½JW=~™:=NYy½põÍ< Æ˜½pÿ³»@=2ä7=‘N§=—¥=P«®<ûê•½˜X|<è‹b½ü Ø¼Kµ½ ”<ğÇî»¨GC½øDy½”³<p_½¥Å¼"T_=¬ÿî<R¤=ø“9< œ;ûæN½ºÇ/=Ä2±<0âœ½¨™†½°…ı;Ê¯Ÿ½ƒA–=\\ğ<ª$=Hâ=`[<,Ú§<–›=xS ¼n
+w½È/q½—~¦=U€‰=nß`=Ğ÷ß¼¨O¼H7_¼F=@½ûa3½Úæ1=Àç:$ø¡½5=°M½c§c½6|;½ÂºY=€3<¼–h=F4½ë@X½ü`ñ<>¶=qî¡= xå¼†xò¼_¸»LXè¼*£s=ù‘Š=Ì=Ø…}¼ÒBy=Fí=½¶¡½ÜV„½Jz)=|=™¼¢›
+=ò;=Pt ½Àê1<p®=1Õ¤=È2.<ğ¢#=à¦<:›/=*Œ=ÀÎ‹º Ä½»ê½¾V=`rr»*æ=‡}¦½²üA=¯İ<8¹3¼\=‹<÷;öš5½~µ¤½px¼Èo¼Ì™µ¼c/½`ì<§Ü¦=`ßå<v¥=kÔ%½€_¼f°é¼ã`=jœ¼j£¼œjÑ¼WŸ=`âS; 9¹ˆ=³ç"½ Šö<²ö1=P¡1½:¶¥½(9f<ı¨½ €906ö;À¨ºÎL½€¡=’B'=dj…¼ö¬¼ªqp=Ÿ[€½¯r½$¡=ê¦½oß‡½Â6n=BŸx=è9½“r\½ŠÎ<=v™=Tê<¨;¼ 1J»ÉÜ<àµ<€.I½–>½OÒ¥½ %i<0}…¼°îv½v›)=¸Öo½ú£N=6¿e=f6k½?§œ=.‹¼ µ<n½ —"<#!}½šdM=P'½;ÒK½¢¢m=¬§¥<ØUA½xD#=Ğ¡_½€ì<ĞP¦»À»¼,Å¼¼¸œ!<@B¼p¼;pnñ;)ş¦=_J£½´z—½ş½I½°¿{½A³‘=ğ; †j:¥’=X”y½¶·Ö¼Î<I½? =p Ñ»¬\‡<S¶<C}½T˜½¼‚ã<¾ˆ+=C½G£½Öe=Ú‚=Ğ^‘¼@‰½ğÏ=ïf=Ä¼à¾¼“—!½9%ƒ=–ı¼‹74½@íQ½[ˆŸ=L)æ¼I¶=ß~‘½÷£=€ò»iÀ™=ûâ¥½Î˜=]Y™=Nğc=àö<¹’;ø<Ç…½Kœ|½Ğm¥»"Óm=\³ã¼çˆ=G$<2an= Qª<ê†½õs=Š½¯•½l€¼nÛp½N‘½œ´ù¼€[.¼@VU¼fSî¼r‚K=£Ç›½¡=ZUY=r¥M=„Š†½'½ôw¼ˆ<J¼ p½Àm:ØßY½NÄ_=[Ÿ^½¨kK¼:Ä¢½ Ê*<1É¥=,Ÿ ¼µd=dÆÅ<ÄÄê<
+î\=ZQD=DR¦¼VÆ)= êÆº˜ì=¾2½š‡€½à=èÛ6<š{=S=îH½v1™½4„¦¼>µ<=äá<)T–=ê%=>ÓZ½~pz=¬gê¼²'z=j»‹½È¹_½0}˜»^SJ=8fu¼DG½‡Œ§=ĞËö»ùF“=¾5=ÀòÃ:Dh‚¼ *å:@d‡½½…=ÀJ†»nl6½ğ'=½Aõ¼`d ½RXR=<f’½$Ï®< ï»S?©=‡p¤½[š½>ß+½
+¤.=L^š½¡ƒ=PiÓ<|¼½` ­<ê:a=(I¼P`Û;´™<>H6=¾7	½@Jı:¼”¼£ÌR½€T±»¨ö{<¨~S¼@w<[Ğ¤=ÛÙg½xñ&½ <`s»DM½M«¼ ¤0»½zŠ=9Y§=R6=Pâ%½né)½°`½ºw=f™½ B{:À÷Î¼$¬õ<@À„ºØ0$<|!û<Ö¼@æù<2ÓG=¿‡=ÇŒ½à„w<ËC½Ä(—<›FS½ø™2<0	Ã¼0¼š\¨½KÚz½f@Ğ¼å –=@Šç<–S=|~À<&Ñ½ƒ ›½‡¿¼Ì‚Ö<.±½×¹’=Ù=—=+ N½à}%;st{½p½Xúf½–ïG=ëK½öm§½;‚•½ÿX•½(M<3†i½ÀÑÕ¼”—‡¼ìI¢< –O»°ÔI½vØı¼¸0Z¼øÿ-½N€+½¡¢½Œ¼¯¼O¡=,†½Ø!¼ø4 ¼ìW¢¼ü_¢½vÎB=
+\—½úò:=¶-5=ù°<P~İ¼_V=~î‡½D Ò<¸ù^½às"»r1t=¶½cN½ t—ºàK¼À—Ó»‚‚\=pòÅ»Àw‹<XÎ"<ëAT½`¡;<º7½ÍT˜=KZ
+½è= A™¹Ä1¥<’lz=\î½ºR=r=ŞÉc½0‘u½CD¥= 9½0ô•<Ğê¬»# ¤½êTe=¨f¼¤!¼k½š™7=şÿ¼½“”=J-š½_ş½öŒ¯¼ ­ù:+öƒ½SÏ½v˜v½xƒ½6£<@H=&a=ƒ¢™=ø½ú/V=£Ç&½£½ğÃî»í•=ˆ`o½ÿ£½¹=ÊN=àër;Ø‰o½@Ø=Êù¥½\·<à;<¼ªpT=—È;õ|=ğ_ı<9°‡=K/¡=Y°›=â-Š½
+=@€2½1©=ªLX=Ëô¼pL7½P6W½Z¹A=¦Ú5=ş¢½Ö O= ”I¼ ôº9ğê¹¼ŞŒy=$=ÌH½~ª=ãù”½B(p=ÖÓh=ÓQ½ h¹³aS½  ‚¸à
+t½ø|w¼É=j &=d™€¼ <Æ¥´¼,ØØ<¨Á-< —¶»–VÂ¼ÁÉ£=bşD=:,\=Y½ ä¦¹ö:=8$b¼5ê“=¼‘é<
+Í\=Ô¾®< Un»ÉI£=0£ó<®®£½¨=¢Ç,=Âöz=ºš=ÀH½øm<Ÿ¦Š½âÌs=*Şr=_²=Pï»>~J=:<‘¿ƒ=É8—=¹l=Öş¼~†(½ ‡Y¼ïÿ›=v=”½Çi=–å·¼3ï„½ı= ‰<@ë‰½’-ƒ½T¼«¯ƒ½)A§=š.=(q{¼xá3½¤Ï‰¼³~7½gf½ˆè<
+ïs=t)˜¼Şh½ö›e½¨%5¼c!<½àï»à3Ş¼…=æŸ½9,ˆ= ,C»¥‘½¡”= Í*<Vl=àk|¼J`=<YÔ<}¸= ”Ì¼pÕ_½X£'<¬W´<@ÌŸ:ŠÎ$=a—‰=è5C¼˜Y<ÑŞœ=¢e$=?Ê¼¸ò½ºn½ Åà¼¨7y½g‰½Îçn=ı½‹=¶m=úÛR=Ä¨ñ<¢ó‡½Ğ¼Ä»¨ì<ÊY=K}œ½'wƒ½[©½†<½ëé½h;]<ìõˆ<8F$¼^nM½Pué;/F¤½@Å&½[¥=h=›¤¼Û!½€¦ù<Ğê8½à¼‹…=Z¹2=2&—½,ßœ<@4ÑºèÚ=X„J½†½Kt›½¸=,½€½Ìx›½pĞõ<Íº‡=ŒÊŸ½4Bƒ¼w=¯@½€Ú!½ÊVœ½;á¨½ëK½€½:fÅ¼,ùñ<Ì‹±<@Ë¶¼Ç‡=~½@iO½._=ˆ9½ƒk½ú—=‹é»€G¦<eú=,£ô<C([½|°Ù<f‚ˆ½ 'î;’f=8^<ÈŞX½?¸‚½P« »›g½ìuÒ<^Eq=ò[ƒ½)£=øªA<Ì%Ë<Â {=p{½n…½n B=É´=§“<2€€½`Ãp<Í`=«Ò½¨K¼@%º:ûè;Î€½0>ş¼ºšX=èF]½sÑœ½­¦½+‚”½,Š“½«Ó½§£=öş(=€Pá<°å<¢Q=Àë£ºHú½ Ô¼É1€=@Á¨;`×ä¼Æ½Šfa=ğĞŒ<—˜=ËZ=oP†=WW¦=L›×<ãøw½æ3=*¶p=0õÍ¼B¼
+=ql=T0ó<¦à½ÛF½ôä¼twã<°&®<()o<p×.½Ğzõ¼j= >Z»`—< åş: x;2•[=,&´<D¯†<,•¹<Öf±¼^6¤½*œ=øº3¼6"§½@„’»Kß‘½nƒx=/:= 9¿9ÊÄ=öá=€	Ÿ< Vg¼Ø)z¼èÿ-½@0º»îXZ½İ’;ştd=¾+9=­¨=,“ú¼÷+¢½àhş< 4<¦ =¼U™¼ú’=·@–½¸R0<š#J= ÷p<Pë¦;»¤½~ÿC½ãš½Ó3½­e©=ó×t½À™º<´<ÛI½°ùó»è¨¼8ˆˆ½F?É¼¸¯N½Y=Y<Uç<f·‚½#¨½ÎZ½>Õ>½z.'=’Üi=[é½Ëûq½ñƒ=ÃÖ&½ Œ <8ø”½0ƒ³»ˆ¨=c-”=ÈXw¼ =0’Î; ç;’=†Ër½\Œ«<È*{< G0<Rİ==ße“½|Ï¡< å3;¾›=­“=ŒëÖ¼^ie½€ÂI:ûÃ¦=l3Ó¼àı=¶ª=ó^ˆ=È'=(Me<lİ<ÑK=>m=vC½kô»‚ıw=‚F=ê_q=@‘ÿ<(‘‘½L-…½·Æ£=m½Î;K½âŞ<8½´¾¤<ğÆ¹»³ ½N—½ hi<ØK1<\D•½àÅz½à­|;ó¤T½MÔ˜=C$K½Í1—=˜îb<j9=kò ½pP—»:]<=~˜c½B~=“y½,¡¹<p_Å»½ã„=B½y½P–í<JÜS=:Œ[=~iE½ j{¹H,=¼£½Ráf=òr½€¯:;&PS½ğ3Y½ƒ°
+½ÈÛ=6§G=œN•<À‰û:Ö7¹¼*1•½t£=cÇz½ÛˆB½­Ñ©=¢{==Àƒ¾<ão=K2g½„`Û<^}B½Ã‘ ½Üd…< 1¹å”=l¨Ï¼¨Ì ½Ör½ˆ3<ŸcŸ½$î—¼°Gó»M‚;¼‹½bPD=öNk½Õ =.³Œ½Şa=#ËI½Ğo¹¼ËN—=pÑÜ»äç–¼û½½?ı‹=æ=(Ü-¼+É½\gŸ¼ãl½ËÕ½$Ÿ½<Xs	<ı4…=¸iP½zg=ä¢¡<À„ÁºªVŠ½„ç…¼¦¶v½ š¼ ŠŒ<°ÿ»€±‘»sI½<$Z¤¼~Y=;“=Ì¶Â<Àª½Puo½^š	½0ù;QŸ=¦†=8Áo¼Îƒ‹½L7‚<5É»(*<ôu<ä´œ¼Jô:=^ÙŸ½ÿ¹½F>«¼º½Î5=ŒhÙ<@zk½½Ã¼ Q&; ov<é€=O½ñİ‚=7‹=Gú€½F¼à«Q½şŠ= |= Ÿş9”=pd—½æ…½T‰ª<T|«<(=ğò¸<LÒ«¼^¦=è57< fğ¼Ğ5=À}¢½U	©=àÓE<° Ó;°íi½ëî½6,=–\@=v”g=Sr©½\¦á< f;]—½Êûz=ƒˆ½ÆM²¼(WP½V	õ¼–=h=+â¥½E“=+Œ=²=; ¥½j-#=hm¼Â¨=c=¬t¹<+6=.¿X=<×¥½3L6½Ÿİ¼ş5¥½Pr›<kG½°XØ»h$6¼Ğ¤¡;pµ¼Åİ•=€¹Y<(d ½’´“½¡ =–Èë¼ #½º¸9=!<‡<9Ÿ=%A•=à-<æ‡½>ó½ÀÂÿ<Ã<°Šø»Ñ…=ÀÔD½¿½öu8½*E½sG½âÃe=„f¦<{V£=>A#½ØK=.?=Œ¼á¼0Í »¼ú<ƒ‡£=TŠ¼ùåˆ=P¾;ü§¶<à€
+=RZJ=BŒ½¿Á½He—½Lï<—˜=À à;ÀV¼K‹½À‡ô¼è°½:Š–½&½Ø,'<ã+½Â²Y=˜‰c½şÚ<NŸ=–=4½vdm=MÄ‚= è¬¼c9=‚®=F*¥½â×Š½r›=èõv<^-½µ0‰=²_=FSV=Ò®E=°–à<L•Á¼LO“¼à‚ï¼iy“=D'å<0à<.OZ½°ğ;°EÍ<"G=[=4½ú…©½Ş0=Rç1=H¢E½+¢=û®ƒ=1ï»€¿‰½r?=#N=ûÒ@½´-¦¼Ue„=SË½D<À¥X¼Á6‚=µ`œ=ÀU=Wp="=à·;UG“=æ;	½S¿©=,ü<ªj>=tlÏ<ü½ç½rg¼—cª=r&h=ş÷¼Ğœ;ìû‘<pÍ}½8¨= ÃJ;—c™=†š<¨‡K½pY=#¿=8ÿ~½×9–½ƒr½Ú-j=‚=l²¼&Gq=³~y½7&£=\î¦¼7ç ½è“¼¸D½Ö*=¤Ú¾<ŒzÂ</›½Lj³<,åÆ<‚b™½pwÅ»Ø;i½ h8ˆj#¼ Ÿ<P~½N/1=ëŠ}½R™e=€•<éë<ğ·)=Ó	‹=¤Ò½FÊ¤½øK<ì å<ÔI½”XÊ<¸ù½1áŸ=,<è<´âƒ¼tYš½!Ç=˜¦½°È6½¼Ë‘½ÛÉ™½œÆ<Èê‡½  ò9¶Íë¼¡=°Ô”½e4½Ğš½j˜=À{L¼Iİ<ˆ‘b<V½ï1ª=@Ç¼"UQ=Ş²`½0iŠ; ;€õ;ğÕ©¼£j1½J´-=M’=~NJ½ºG=²®<jÑy=Xt"¼ÀûË¼@Cª¼5½û¯Q½yßš= †è:WìŒ½)…=@±”¼¤„<óº“=Ù€=nQ3=ğÃ;ô-Õ<ÀÕİ»ói…=OZ£=ĞÇ½¬Æ¼;ËD½Ğeb½‚s2=€Œ!ºPäƒ»{š€=3èx½`dP¼¨3= =(¼¼r*E=SI<½ËV¦=€Ò…¼;2%½ñƒŒ=ÌË¸¼è¶9½(í¼üŒ†¼)©„=‹Î\½øÌx<Kc¼2¤}=t‚< ”ì<ªÃ¢½ ¯»ºP©¤½f=fşã¼ı»=\0ã¼¦Ne½AÑ=0µ¤¼ÈÙ½9ç‰=”øš¼µ<=H­<á0½s¥½‹<>Ú=fãÀ¼;p3½b¹u=(|½f›=öÅ½v'¸¼ ù’<@§¾;Ü6Ê<7_—= ?–º,g²¼™»Ä]ä<òÁ'=âP4=ˆ}=í‡¼ğ‰·;TÇš<fm½=ßÂ…½ZöK=ğ	’»ÀP9¼.r7½­O¡=8°l¼ ©…¹Â’=èB1¼µd=ü ö¼“ñ½ò8I=şK=F¯`= æÁ;îH=–Õ?½34Z½^¾½2¥½/h‡½æå=»ÔH½0êú»;,s½´–î<8/½`ÏÙ¼°“€»|F¶¼º2=åó‚=H%½èËB½º„½¼)ù<À4½öV.½ôy²< GºòwM=@s‰:d¨¼"Ÿ)=Æ‰O=X¥c½vv¢½ Cî¼e½/&=C¬:½€¥½Ø¶= /A; w:
+;u=*›HBconv2.weightJ€Hø…<€œö;Ö’½rÈP='™=µê<ş“A==<±£½"ÊP=wß½òô=‘è=I= †ù<s¦¦=¼E‡<Ã½ ó*» ×®¹C¢½¦=ëL½àX ;é†=ùW€=r-=¸İR¼@àî¼ø6Y½»¨=RÇp=à[H»-ã =ˆq½ Œ~;ÿº„=ƒ½Ys=$L–½Cwy½G=“ùP½ò9‹½’™½{¼ƒ=Hd½_Ì¦= p½Z~l=G£‚½2‡J=^'~½æ8Ô¼p¦’»2Ñ.=Û4‡=$Q“½rŠf=ØD#¼€gø<Ãbc½€\Æ<ë«b½à'½1–„="Å;=3[V½4½&üY½s>$½¦b-=œ1–<pBÍ»šaU=?2¼`ho;6‘õ¼Lı»<èS1½V'c½ p±7@ü$=†’è¼è¢(=pÖ$½}~¼3œ=9”¥=˜äE¼ó§= p<:`O=u3½–8²¼pÀ;ÒüŸ½Ór½øs<’pj=‘ ¥=*4=˜áP½õ =Y½¡4='à‰½7ª=Ò6=s´^½§FŒ½(e<€Å¡¼¢>=_/=Cä†="‰=ëÖ„=co”=pr†»l€ı<
+Eg=V·”½ i®:ş’½¦˜·¼  o¼vÆF½VŒU=R•½ ÿ<3&½½İ<Ì·<ˆd@½x}¼J9=ïgŒ½9¶ˆ=À¸”»f»N=`õk¼Ì=Ä©½–t=7=Ö|½@ğ½¼ ’@<BÎG=–ß0½pu¹<–ŞX=àW#½¢=ø¶]¼Bñ=Àcë<hÖ‡½Ÿr½oê’½Œ]£<÷¤=b-=Ğ÷’½@°¼À„–;@v<ª\=iíœ=ìÌ< _(;ànd»µ½"ÆX=S	½ÆwÙ¼&À;½Š;-=ìLµ¼çö–=¬Ïï¼S]/½[G½Fûj½à¯=rm›½İœ=pË»áÍ¤=„=€àº´¯‚<{^›=Æ~½K=ª½èr[½l¬‰<jGª½ )7;³^½ø}½b]= ã5<í`¨==Aš=*==X¹{½÷a•½´š<"ŞY=É=êÄC= ‹G¼Ô9ß<~y½À_„¼èÜ£½>…=Ë,©=ioˆ=ÔØâ<l
+ ½ö5Ÿ½øO‡½Îw˜½¦=¥Uˆ=1R=‹¡=+Ô‹=2{l=E•”='–™=FÈ?=à‹=¸ç¼No_½Ü™=»_½æÎ½M„½0’¼ƒX£½õ< <Û»>E.=‹Œ=#wœ½˜o½H^f½S=_F½1£=bn=øé"<ü½gB©½s·E½:‡…½´á‘½Ìo–<ron=|9Ö¼ j¼VBJ=(b8<ÁÚ<¾Ê=½<_©<¸/¼@?‚;ğ%Æ¼î^7½Pr½l«ç¼…^=Üğ›<– ½¦Êú¼Ö¢½ú(t=˜°½(Ï¼Ôlš<›¼¡½øu¼n,:½ˆï{¼%Œ;—¥½áŸ<1P=PÃ»SÌ£½º8=‰å<€£]:–âş¼ ÷c¼\­š½#u½Æ½ĞÒ=²cE= Qr¼ºâm=|Ì¼†iO½ş=½fg½„®¼VìR=ª	¼LRÿ¼S4½¶J(=N÷y½ °ç;ª€==¾S=TzŒ½km½ÄÚ±<ü ½¼JmW=Úú\=HæH<ûÔ˜=˜PN½š¾l= ¢x;Ò%€½Z¥T=F±/=€‚\º%=8À*½Ğ;ĞAQ½SI½ U”»hÕ½ ¥Ñ¹àé =œƒ¼,*å¼¢ö;¬Ç¼×Ó†=(Â)½8ç|¼2	©½½Š¹¤½şa½D<.0J½`¹;xK‹½Y§=2ö=fŞZ½d8È<À´Ë»0´m½&°
+=€©.ºZ 8=¾HX=>‚=³Œ=@Ë¨:û÷i½~ãB=á”¨=şß8=[’=&“½ø•l¼öÇm=c#=ä<ì<\€Œ<€n}½Pğ;H¢&<$1‹¼*Ì ½ß¥½fê'=f.j½{®¤½ éÀ:˜n(<f‰~=H_}<¸gl¼™w½Vgg½ŒòÂ<æà•½–ş=øìl<Î=Ğà–»ni†½¿äŸ½"&U=À¨»x‚<ì6½< 	;ÉEˆ=rz=»Ô‰½>)½²™0=àş¼8š1<Vg;½€…a:^Ì=J#k=Óv¥½¨ó[<fç=7Ë<¿óš½ğª¡;Q÷<†Ò¼@<¼äİœ¼È5½&2+=H¢E½Hà =¸@=’=g1¤½0NÆ»©ô¼ üº¼€À¼ÌoÌ¼k´‹½P¦³»QŒ=Hi¼{üD½~wH½4DÖ<ª;K\f½.‡)½@6k< M~; š9À‚Y<Ğtß;È½#Ú…½YÁ£= ñ™½»l½V½Î1=„~ <È®A¼¾k½ûR½VMY½ê…½³'ª=#|½,©»<`Sê¼ØT¼N©£½±-–=^q=Ûhš½À0ª¼Ã5½Fº½ –+<u¶‰=ˆFI¼ÈºB¼je½¸@:¼~Ë~½;¬e½€ıº[î†=W……½n±X½kEª=@-=ıN=3–½@ùˆ»ş¼ØP½ ½<^˜½`]–¼æ1½ö[½0ó¨½h<ÔØğ<d"ã<hUS¼`“t¼`‰!;ğö»”Ê<¦üE=ØN%=Üuù¼HÛ<Ğ¥¿<˜d5<Xbs¼¥¹©=;„£½üş¼à=ş«T½U½ğ0»<&^h=n£½çÑ…½ƒò=öï½À`ƒ¼jT#=¼ÌÛ<àå=¸=½ê- ½ë?½$²½&aà¼s!E½ ›½0«<ºOF=òÕ=V?½†ĞM=¢¬,=xo<t(ı<`Lc<X{x¼jà™½ğp¬¼«ƒ½Ôè™¼`u½ƒ&½ìŠç¼¬0À¼šìx=•ÿˆ=^	=À’´<dá­<`+q;å½şÑ…½s^œ½^(3=ˆ¦A¼¨d+<hâQ¼ºyP=@i¼; Fx;q4˜=}V=ĞOÓ»¬<¬„ˆ½XÑ*½â³x=5Î…=K25½œä¼ê¡w=BB½ê«=“¯ƒ½Ğòü»v Ë¼|Ûˆ<PK€½Ü*Å¼“Bc½`P–<¾ÜV½à%V<ã¼3j½*†o=Hàb<®p½zU=Ø¥O<úŒ½@ç:³D½";k=×YŸ½º­%=#t½È^m<@‰„ºr>M=ö½Ğ°Ï<ŒÙ¬¼s²‡=†#Ş¼WÔ½è@½ˆ}<„i¤¼°!§¼ÃıI½ĞJ”<ÔM=€ê$=Y½^ìR=kÒ‰=à&f;LÙ¼KØ< Ç;Àhõ»°ã¼»@ÌÊ¼.­"½.7.½ÛŠ.½XG¼kùi½*+¥½¼Ñ†<(KK¼\&Ñ¼âê-=Fa\½’XŠ½Æ°¼À³ßº·û¼›^½Øµ*¼h1U<¼Ä;º†7=38z½æ"=&×= 4(;Y¼`Ïh½Ü•æ<ü><hïo¼€4#;"¯= ;t½òÈi=Ğ¶Ø<«½»=¬Où<Ğ³;T7=p¡!½2‡ =Pêv½\+©¼ !Š<|‘Š½‹Á`½õÌ§=;p¥=S×d½Ãm6½`ö
+;Îs:=ğ›F½¢›»ÛÅ¨=ˆ‘9½,ùê¼Nw=˜Ñ½Áó¡=3àv½ÀK}<ò<sœ½Ì±Ÿ½`ƒ¼ºLb=Š6e= ğ<Ïƒ=.vx= 3L¼öûD½là¼ P;ˆ{½ ÷É<øyi<N(=ø?I¼›?‹½@n½¬Ší¼uU‚=‚İ^=¤Õ<š=¶'=Ñj¢=`J;¼ˆ+%½*öŒ½+Ş½é+‘=cèœ½(½ğŠç<ğg£»3Å½–[ä¼ e¬¹Öš£½»ø½[œA½şNo=8íf<p_½s—=æ P=Ó¯,½ŸO½ K;¨Ä½†½ÈIp¼´ã<z»=ÿí=óc=f°X½>:½9ƒ=b=±P=rQ=ì™½*`€½À’ºù¡=–
+=êw=­—¥=2k`=³
+
+½ \»öë
+= €<­é=£]=–®é¼¸1¼Àìò¼-s½”S ½€õ¼»˜}¼¸ŠD<uîŒ=“•=Â5½¤†›¼ğÂK½‚R=ğË>½Şv =@ãĞº@ùŸ½<ÏÅ¼v"t={¸¦½m™½›E2½<§€½JQ=,i½Æ%Ï¼œø;àò@<gH=8c‹½P.€;æQQ½" =x¯R¼Ğ=»†‡½»r½¢ü{=È |½h±}½X˜Y<!,„=ˆç'=(Ä:¼ ôD½‘‚=6f½µ0=ºsc=K¡=†3y½ğğç<HƒC<wÃ‡= HË<€N!»ÖÒ;=ç÷†½®•m==4•=L½âÆe=@K¶»(²"<fö`=©ñ—=æ€¼ˆb½´W‹¼Òà£½;•6½áH=^¶?½»@½ ô<²m=Àî	¼’ =ë*‚½â˜½|ğ¼`LQ»:½=F^‚½vjU=Cáq½ Ëé<ø)= Ùl;7ç—=ËX½nÛX=áÉœ=@¤Éº’=.„½¶\l=@ëº%‰…=bQt=Ì†´<zQ}=B‰j=àL-½Èq=ÚK`=é½÷ã¥½‹N3½·ß–½ø÷¼
+mL=Ô¿<WË›½óŸ=å5—=3†2½f¾D={mL½øe<¼¸E*= ^µ<‹•ƒ½R€½ÃÚœ½`á)½ÀÊ<ü…÷¼HI[½Ãp½cb= 
+<.t3½*Ğ½²N?=Èr&½.Ùd½Ão&½ê‰s=`b¼ òS<à¸=p¾»=ò¸<= ©O½€m¼ør¼¿‚½"]=€#»ë‚< 4×¹hğ0½f˜r=.è[½jF¡½>nN=VúÂ¼bE=”£ƒ<¨%e½èò¼zŠ= ç»†C½ÀQÍºéW¤=òE=È»½Ã½ƒ ½Ğ±½÷5„=Æ<P~/½ëŞ8½`SS½à»$¼üL¼¼àÃ¼	_¨=á½ö¼@Ù=_O˜=ƒÉ‹=P±¼æP=hÜ;¼7¾¡½T©Á<¨÷G<@§º’Ò„½äç€<ú9X=*`=€…½üòÌ¼lÌ†<ÀXC½ˆ1B½j%=`/¼¶ ½*À]=„é¼l˜ò¼ ~T½ºJ˜½@‰¿¼š§#=0¿«< Iñ9 ô;Œ†û<Ã»£½èÌ½fxI=Šq=0ˆš¼¶ÏÜ¼Ø¾7½õK”=¼Ûè¼<:†½ ü·¹ ÷½ˆ<<|w¹¼ìå™<İD‚=tÜš½h½“z½H‰{<³Ÿ ½Ãİ¼¨?¼ ¯Ê<ğø9½=³‡=pÕ»Æ½öùb=]:=û¨=«ãF½pŠ‡½ be;ıš”=€½œ”»<~ğ{=»*‡½«CŸ= ›"½vÕÂ¼š¯v=«Ã9½—¼®İ"½°Îà¼`ó)<Cœ½Ìê<ÓªO½Óë¦½Vñ½æÒ6½û>C½öRİ¼IW=Nšª½ R;¡;êå_=¼´¼ E³9 n¼   =õœ=³Æ=‡r”½V§½d®é<\ğË< È<Zª	=•¾‰=Û¦½¨#½‹»ÅO•=mú–=nö%½L2¶<~;½`Y+¼¦~f=ùR =E£=J¾‹½l"µ<ªú_=œ”Œ½ßñ”½Œ¡<ç =`Š=ò8M=@à#¼Ö5=“£½î¡	½Ğ©’½ì £¼&Õk½…Œ=€,<÷Õ†½p‚½–ra½]ª=g›½Kª½8R›½È)½™=ê½Vi½ˆçi¼k=ü…<ú:V=˜Ş<"ºh={§X½_—¨=Âõ½ ½0Ù¡¼Àçı¼`üô<#U<½Ì”¾¼@!ïºPÀ;–=Hºq½T‰<£+j½$PĞ<»­P½ê÷4=ĞNÕ»ƒæ½&½Èl~<Ëå©½@.J<wö= ˜}8øC;¼4˜›½¦I¼Ş¥s=a‰=ş&,=‹=*ı;=TÄŠ¼´›<M‰‚=¼}…½_ù½ãœ=Ğà–½`­U»ª&s=PĞ€½¶Ü=4N< Z;K*½œª=Nø½Ò¨%=“	+½¶	½p‹Ï;øl„½h>Z½Nà;æß$=@´¼ëc)½ØŸ½B‡I=TB‰½`!;ˆz¼°˜=h.>¼‘fŸ=¤J<˜½˜ÌE½3h½¶=r=I=*º[=`·½X0T<â\q=xìk¼`´»{= 7=»A<ÜQâ¼àY<ˆÿ½ª%V= W½%Œ=†/c=%Êœ=ÜR¨<ş®=˜°¼%½ÊŒ½\Aª¼¬…‚½ö%e=hP|<ˆ¤½K&¢=•1…=øñF¼ö½¨Y|¼¡½èí1½@·:½Èƒ!< Ge<²h0=wàš½vm= ÇË¼¼Æ¢½f†V½{^M½0P½|½*Y=V®¼ÌjŞ<€ÑË»î#=l:»¼Ú^=æ ª½pªÔ;q=Ğ¦·»¼mé<˜A<›½ğôÛ¼è£ƒ½àN?½èLr¼´Î‚¼ÒyY=ı¼ÇÂ=¶9²¼.ö ½úlZ=Ğ=n½z¿_=*‹K=|â—<z=®^½Ç;`Çw<Ó
+1½“«ˆ=‰<DIÜ<Pîî<Æ%ô¼Èÿ<T,¢½ĞgV½7®§=BÂ"= Së<X×v½\Í’½@Ò^½ÜmÅ¼—¹†½õ­™=€¨4ºDª‹½B¦=g =àÓk¼€P˜<À-é;Îşa=âj,=lN ½ êy¹ÃŒ½¬™½°·ö;:w^=İ¨=0å*½P‡»9k“=`^C;ôÕ¼@à$<Z÷B=à•=¾Â…½"Êj=â½X=àâr½øp"½/B½8{>¼jÉ;=xB½åË¼ÛŞƒ½@‹µ¼3™=Ëø¢= 4;*Ï=»Íy½k(½*7=¬Ñ<@}<léÂ¼Qdš=0R„»øÚ0½ <H=«[½`¿=şÿ†½ôd½›`½ä.Š½Ÿz¡½8%R¼
+VX=@<Ç¼ ¡"¼Ğá'=ä;½<@>²º‰’£=
+ËR=`’£½È&i½¦¢=&»<g…=ª¨1=–ÅÛ¼ ë„½¶}½ÈÌk¼Pñ¬¼*š=ˆÆ½øÑ#½2>=Àº<; …=®=T=
+ÕI=¸ûb½ˆ7<Ø–=0)=Ò){=4ä“¼Šé^=yl½pØŞ»Äê< @½’Õ={ny½b‘r=l–Û¼y„‚=VD­¼<Ô¡<öS½_(ƒ½K>½†ñ¼Cpf½ıĞŸ=8ød¼øšN½ “¼¯ÊŒ½£Ô¨= Š»¼ ¢è<û­¥=Á˜=på]½¸\<½Ø—=k3½è”u½¸É•½ÖAm½>î=#‘w½ÀÎŒ:†Ë`½Š¤$=´(‘½¢eŠ½³È©=rà`=q—»€]=¼Œ¡Œ¼À×ï;ÀÕ€»j¬Q= =  ¼ ÑĞ¼”^½—`›½BÈ5=Óá“=€?Š¼ğ3Ø<„ĞÍ<Ğ <ë½fL%=Ş	½@5º¢˜.=°E ;ğÕ¼¼üåÌ¼Z‹½£Ù½ˆŒ…½`Q¼ºé.=¼ƒ¾< :¢<«©\½D5Ö<Â! ½€?½Úï½®ÀP½h·O½àÕK¼X§w¼¦qJ=7—•=xd•½‰=`œ½åˆ=Û3b½È@#½ í•;ìÆİ¼øpJ<¹E‡=¼i€¼SÁ‘=ªæ=æåŠ½Ÿ4 =î¦½
+c=„ˆ¼~L½˜5½Ä\½v½ ™p<Hªv<¾N½ §‰< ´ß¼¦™[½4ú–<èÌZ<4˜Õ<7á½àò¼«nv½P²C½ô3Ø<f4½BÕ_=.Ô|= û¼@HÚ;çˆ=`WQ½@_ºÈK@¼(ùl<m= 6:œ›½HR¼Òj:=”Úˆ½Á“=Y½ÀØ½ãw*½"™-=À8¼»¦t=Ğ&ñ<ü6Ê<ÏGˆ½@ ™ºtğ£¼õ;<0OÚ<¦}=!=$ÒÑ<Æ¼;=X§œ½F9=è”	½rj=‘a=®m=”¿ó<–ïr=à1»ò¬u=¸"e¼=W†=„âÀ<{¿¥=øëZ½T!€½>ÔZ½àê!¼¾"X½üq•¼–UW½gz¤=¡h½ş0k= Êp½¢Ûo=c
+£=ß³£=:”¼Q`‰=á[<0}Á»Öï½«Œ½®©3=ĞÇ<»n½JU=cS›= ÊX½;,½äŸ½xŒ$¼–OÌ¼Æ)=‹E‹½`]J;ŞÑ.=ªóe=û§Ÿ½è= h·¼¾6½À¼À¾J¼c˜’=x;½É`½Ş˜½eb†=@¦%½EŞ= ‘<A¨=0^½RìW=ÊS
+=L*ÿ< 4s½<@¹<æÚ¼ÀÄ:÷fª=ºw5=@±#=bi:= Õ"»j”U=½=ôc£½˜L¼’9½øA*¼bº=-=¤á¼å|’=X:¼–}2½–Ğ"½È€=Ğš¤¼ø¤[<Q	¢=ô	‹½ûï½2Š< ÁüºW=¯u“=Ì4û<{8J½dôˆ<ù•=h±š½D}€¼¸Êc<ßš¤½q3“=7¤‹=$7½ü\ü¼0Z¾»Ø'½¼qÃ¼°•L½ˆ= Tô¼pè»6íU½I¥= ù»9ÎZ½»›R½<²÷½æà=0™B½–z½@È–¼ÀZÓ:¹›=­Â˜=p–;şs1½ZØ#=ÜÓ£<àÃ<àV <ñœŸ= ø:;8h=œ6¡<Û*Š= =»^Î&½¿Â‘½ šë¼Íò—=¶m=/Û=9½8v=¼pùY½h /½“½ÚÀŒ½@°<P-r½ c-;J~=UG=,Ğ£< ½à: =tš <vÄì¼€”½&7½3V½z=Ômú<ú½]=àT= k;†Ş¡½.c½sg¡=mM‡=Çg‰=Nn¢½ş1~=Ûºx½Å=!˜= È9`é‹½3öF½ K2¼@›‘;å?€=FÚ=°v‹½–R=à#¼P}$=Æ=¸ÁX¼gË€=Á‚½,ôË<¾==¶¼½Tœ½¶Ô\½ÚjV=“´Œ½ÀY6¼Î©a=3_½Š?h=Vè²¼”Î‚¼$©ÿ<Âƒ,=°éï»şÿ=ï¤½ yª<ØM¼+km½31=	=d¯Ó<Š§=€‡4;âIE=Œ‚<PÏ=S½@Œ…<P½ãG½G+‰=@ÇŠ;€¡Ğ¼èı!=`(W<U¨=6’ö¼ök<½¨t=Î<@X¾:¼u„½üÒğ¼™ºˆ=fn½®ë(½Õh =ÈãP<½©=4éæ<p0Ç¼n•€½;.§½"D=°µ<
+i=^†½|Ê<‚#
+=6	¼Ü”½V“=–Æ½àŒ±¼˜n]¼­É†=x;½öË¿¼ı’=3Ï¡= ;Æ¤™½6^=vH½€¬³¼–‘=@k<Œ{Å<ƒ¡¨=À|²:N=HÈ
+½óT½še=û³b½Ö¡½rÃ½›U¢=Š'¼a—½®O½Ê¼1=»p½½¨=PLM½ÄJ×<l9=øÍ=½f= ;pÇ»¤ğ´<Â¿½NË<=àæj½6oª½n =˜a½PÓ<@¤{<¶„½j§F=Ôƒ‹<ª²e=àó]¼®üx=¢5k=QLª=~¹½š_½ ã)½ *"¼€óÁ<ÀÎÛ<ÀÇ¼àõ<UÂ¼ Y3¼¼¦½	Õ=‰ğ¢= ÀE»Tk½½t =ÍI›= šƒ½@‰[¼NƒA½-B=x¼óş<g ‚=H-`<¶)—½ ‰7¼€¨;“g=÷aŒ=€y[ºº,C=‚¥=rr=`ø»<ğñ<ğÜİ¼e=\r= 	=:OU=V˜½i•=`I¶<hA<‚üJ=TŞœ½!	š=ö£=¨ª½Š(‡½ó)*½¦2%= y¹H,T¼˜‹¼ 	Ù<mp…=r½ä˜Å<D·<€Ê„<.¿A= s%»$2‚¼ûºL½ãW%½:w:=€5
+ºàË< èR;\é¼PDâ;@0=¶İ.=ÀŒÈ»¨7-½x55¼Òò`=*”E=Ø›!¼«=Ó´½ÄO¼‹­Ÿ=€É³;&ñ¼„(½¤˜=Rû(=æTr=Ü™¿<æ¼’fH=ü°¶<Ü´ê¼Ft=`´ù¼¨h0< Ï;r²=†c½@„Ò:Èæ	=Ëş†½,”¹¼9e¼Òš½­aœ=ª&
+=7µ£=0>È»fuˆ½¬èÄ¼Ò;!=K¦•=PË@½2	`=ß‚ª½ø½X@=Á®•=vOÓ¼ˆÎ0½,»€<œÏğ<h±½y‹“=üñ<<gü¼#è;½¡û¨=x|,½Şï0=iH =LMÒ¼¨¯½€ÁÏ» Œ°<¶û½°ñ‹<Î›{½Ôb<¯„=ğä; <¯b½tª—<œ»¼üU£<°¡¨;†bÁ¼ô¶½<"ôo=¶ó¼Füä¼FnĞ¼p2¡½jh=Fš½ıo=28€½ rş<øªj<¦V?= Ö[9Ÿ)=Ğhë;¨š#=Ş_ =€ã»;$%½Æ
+-=Ú€[=˜I½Àj¼_ ½Fµİ¼L4Š¼ û[½6¤&= ß	½h )½€"º·†Ÿ=p3Ò<\'ú<ûúd½(3<+ ½§>€½BK=ğÊş;H¾4<£f”½Zew=un½æƒ½«Ä–= ï;Ì”¥<Óß%½¨B=*=@u"¼öö= ò9;©I‡=ª‹y= ‰=Ü—È¼W¢=‡-‹=ÀïÏ»ˆü¼…¼3¤…½Ğ\½p½ŞİK½6[À¼Éƒ›=ö(½x­¤½X¶½ê—m=öî'=¶ß[=”õ×<‹?J½@–—<†]ç¼.?=Èb=,@­¼Ê6^={½¨/s½œÅ„<R€n=øP½“÷]½Pğ»  ‚½k% ½—ï¼AŒ=ĞÑ3½ºy(=Ùn§= Ğú¹¬)¥<`m›<ˆŠ<ÂË.=¸[¼Wº§½}¿‹= Á™<@Õ´:@»Â:»«q½
+FH=ğ<ñ<¨ÿŒ½š¼˜Ú½0_w½@¤»<	‡<Àß<Ëõw½ÌÛ½7¨=01½~,=ˆ§%½À¶¼ºµV¦=G9½ª>=pİ«;¬q‘¼M5©=:¡N=¸Ÿ½ŠSŠ½ø¯
+½Àì›»!=R6=ËÛZ½¸Ë1<ƒoN½h˜F¼€‚ <º…5=–³w½óg½ Q:<ø_a<‚Ç-=¸šL¼ :½Ö*]½÷K™=úX©½Öª={& ½~ÕI=<ò¼Â½ ´=<‹p½«ƒ=X¨=Ğß/½FåP½Åq=pX½æS ½Ëé*½¸u½¼` <	=âg=––š½ø+< ji»¾’½V*ü¼£ª=‹)€=à93½fV=@JÈº§¤…=7¶¤½@ğT<îâ7½€(€»2Õm=2ğg=<¸™¼’9`=@úò»ò::=¼¥¼Æ¢%=Š€x=ìŞİ¼k›¼zX½€:Ë¼À×½PòË;VpT=¼˜¼@ü¼ë@B½ Ó`¼o‡ƒ½<0í¼±eƒ=6½)=$¤½‰­“=Ni’½bŠ=./= §=+òI½Vò=JÈ-=Ë,½²EK=”¬<N@=¬¨¼ÎÈ§½(M"<A×£=Ê¼*§ ½ ¶œ:\ñ½d5¥¼€p¼Ò¹G=ºK3=ˆ«m¼0ı¼ˆÕ9½¸R>½º)=Ğµ‰<jà›½üıú<sA½X`<ûC=Y'–=Ìˆ½ÂK?=˜­Z½G’¥½Öc6½`ù.»‹p½`’G»8,½ p¬»`Õk»8[d½ º0¹€è»èé½ ¹ºÁˆ=POq½@ıâ:_¢=@TÄ;Ä?ã<`•<*Õ=ŠÂŠ½(V¼œDÍ¼v¹6½ĞÂ³;¬W¼àª¼Óğ¡½]½™=\¥½q)Œ=³’½1=*Bconv_out.weightJ€´1¼ÖA£½33.½´`…<½å;êè½pï=œWç¼
+m@=×'‡=P¢‚½­Ï¢= —»ÔÎŒ¼`ç3< ì<ºtª<ş3a=V¬­¼JJ=ëy~½Ó‘k½²JZ=Òt’½ÀÀ»ĞYº<ĞDš<(öe< ˜U;@²»€hè<0(‘<Cì*½¢‹}=İ9ª= <	º ƒg<èm½4‘¼>&0=ã
+½„¼ş<½~½Ğt«»j£½ø_=@gÈ¼²õ=ü4í<yaš=WCˆ=]t½î	=oĞ•=(1X½†Ìú¼ h¼Œr°¼Ö‡½ ¤ =D™<àŠ<|U½
+e=š†=@g=¢~w=,
+Ÿ½>Áo=8ï¼°8¿;€Ğ;Ğ°Ÿ;¸:Z¼ tñ¼È€@<ND~=`QT½–ƒ=*š½ %‹<—`½#ër½J§=8ÇŸ½Ê#=„’Ú<‰M= ïK¼ÀÇš½   ½ÌõÈ<iS¨=ğ#Ä<0C½{y½Ú=p»á<¢›B=áMœ='`ƒ=¡=¿rƒ½ëh‘½ÀG±¼”ÏŒ½›‡z½›½ÈŒL<
+jR=ky‹=ò,¼bU=r§£½¼MÌ¼I¿©= ìæ¼€¦=fG=Ÿ‘=Î"ƒ½“ô‚½@&İ»˜2H<œ!è¼Öu^=.r½cè;,ôê¼ï®¼`®§½†]½"Øp=ü=¾Du½ŒÎ‚½³/?½“.=š½ÃÉ¨=¦[n½»W=PåÍ<0 ½š9y=OÅ’½œ†ş¼¼{=xú<½ˆñ)½©$Œ=S+p½·Ÿ½jA==’ü=0:¤;¬j½rĞ‰½S¯½v{=f¯¾¼ce™== İ·<6½4½”¤«<õ¦=†/,½˜Ø;¼`G;€¼@eãºê
+1=JËA=&f*½få½Ğaõ»ù¤—=|h³<ğe½¨ 7<œt½âÔ~= 7ò¼øØ5<•"=À½(û"½Û.?½P\‹½î†5½†»÷¼¬s´¼ Æ;’Yn=""<="R‘½@“Ø»æ3½8¼Uvˆ=8ì+<ğo½‰t=JSN=7>€=kOD½2“ƒ½`R½Ğ[½èv ½€'*=ŸŸ<‡½ÛœS½ìs‡¼Fİ=ÛÑ§=TEş<¨9½~=Øq½Ê=\½•¤=m=P†¼o¶ƒ½m(¢=>’=uÕ™=È†5¼`cø<.›½¾ûk½g²Š=°o;{§H½\»£½ñuœ=Ø¼/¼gõ˜½À*»:şpu=°(©»
+—= /;l„½ï††= ‘½õ˜¨=şku½Ò]o=êûW= b¤»¢»a=Ñ‰=¦°ú¼Ğì5½>;s½6Á3=øel½€×H<åÅ¤=GÚ<Z?7= Ñ¦½^½8í5¼§k=<ÒŞ<ãr˜½*»˜½ğ&*½Ëj	½øâ < Åo¼àC%½²ì`=\=¦½©y¢=Ÿ2“=âùa=ø[1¼šÒU=Œ5¡½&Rò¼¨Æ'½>Ê =
+fp=óg¤½6êÍ¼.Å6=€Ö“¼Œî<>Š½¡Œ=p5¤» *½Øîb¼ Ò*ºŞk^½Õ‹=âC=¯ˆ”½‚`A=ˆz<‚b= Ğà8¸8½B|t=/|†½ì;nQk= Ë?»±,½Ô–Õ<@Ï<«gr½î3_=2%c=0kÂ;=[=m¬=gÎ–=fyü¼›[½#b=&ş=°4á».=H½PS=Ê!s=h$o<ûk/½¥‚= EP<ğ:{½9¡=ßv½Á4= ïB<^‘½ÚÀ:=p^z½Bz=° ¥<¦Êé¼‹·]½C%#½|ÙÂ<@$i<€„>ºƒĞ½å«Ÿ=RS~=Ú?d=ó	½´d„<x;½Ëå½e½€û‘<P•½¸Ev½¿=…•=^¡•½dˆÌ<dÚ<Ö™3½Ò¿Z=6¼ö5f=l»ï¼OW=49‹<
+QŠ½ğ˜ç»>$@½tË¢< ¿Å»iN=Î®5½À[<n=[u¤½Ğ„§;°ÿ„<VÓ½¸çj<yã‡=X…½_[½@Ù‚;ÀŞò<%…=ŞB^=Öè9=S˜½L5È¼6tõ¼°¿Ì»‚=K=“=BÍ\=*‰¦½&w½ûÛV½‹M2½UŒ =óÖ-½¾‹=ˆ—¼ ‚½üÊ¼Œˆ¼óo=ÀÛ#¼eb¥=ÀmS½â®•½IJ=ÒÀ\="iV=Lb¼‘C’=üNí¼SSM½ƒO“=7í<ô@†½Æ =n·= w¸¼ğ Á»bÄf=\ãÑ¼à:Â¼‡œ<°-“½Ài³¼ ?&½1Õˆ=†q­¼f–=[yH½kƒ›½^ë$=¢„M=2š½¬jÅ<° …<–P=†=8ßq<à;=X1=¼€aBºÀ£$½•¥=xş-½ ™=Ô+½ÔÚç<Ü!Ï<&Ç=*úp=¯¥=€sõ;­gš=æSU=;İ½Âìp=´}–¼×=»E<½°q(½í·=|q‚¼v¿1½N<[½R@U=@=`‚¼Šm=aÙ—=TŸ‘<Ü¢¿<¤ùË<æŞr=€¥»şå	½~ÜN=€ù
+½â®¼K™½Öä=ËØ+½£´œ=ÃÑ<@\o¼L=v=Ğ…6½±‡½Ì¥½«ä¦½…ˆ½|2¼°1œ; Õ8¼pº½<ÿ	=àí£½o@=å…=ZÃc=	 ½\<òî@=ƒb½³©[½sŒ½;U=p/ç»PéĞ¼ıW=`Ü4½‚Ï8=H¦<µı‹=¾ Z=l¥Ñ<œG¼)ƒ¥=Ø;W½
+³@=.–½ƒ‰o½pdÖ»
+*C=B¹X=^=ëÓA½3Ï½`·¼°ÜÏ»Fİ-= "<Ê†¼Å1½øëZ<8ÎV<×²ƒ½X‰¼3}Q½Î€'½VLa=H?¼Xh<‘Ã=©¾=¤B<à §¼l[¤¼ğï=dÔš<`yZ½ÀLÔ:Î‡;…»¡=25y=Âr=Z!
+input
+
+
+
+€
+€b"
+output
+
+
+
+€
+€B
